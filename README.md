@@ -16,7 +16,7 @@ To follow good practice, we'll be working out of virtual environment for the fol
 #### Python Installation
 1. Make sure you have python 3.6 or python 3.7 on your computer.
 2. Make sure you have `pip` for `python3` installed on your computer. As I have both `python` and `python3` on my computer, for me this is `pip3`
-3. Then, install the virtualenv package with `pip install virtualenv`. Ideally, this is the _only_ package you have on your system level python installation. You can figure out what pip packages you currently have installed by running `pip freeze`. Ideally, the output list should only contain `virtualenv`, though that's probably not the case.
+3. Then, install the virtualenv package with `pip3 install virtualenv`. Ideally, this is the _only_ package you have on your system level python installation. You can figure out what pip packages you currently have installed by running `pip freeze`. Ideally, the output list should only contain `virtualenv`, though that's probably not the case.
 
 
 #### Creating a Virtual Environment
