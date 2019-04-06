@@ -1,8 +1,8 @@
 # ML Workshop
 Resources for the MDB Machine Learning Workshop for April 6th 2019.
 
-#### Before the workshop, complete setup and load datasets.
-
+#### Link to the presentation:
+https://docs.google.com/presentation/d/1cpxkLCDK6ikYC1ja6Txg4YWEo-P6sS7fNUQT6mA6y44/edit?usp=sharing
 
 ### Setup
 
