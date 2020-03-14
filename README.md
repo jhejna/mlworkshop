@@ -2,7 +2,9 @@
 Resources for the MDB Machine Learning Workshop for April 6th 2019.
 
 #### Link to the presentation:
-https://docs.google.com/presentation/d/1cpxkLCDK6ikYC1ja6Txg4YWEo-P6sS7fNUQT6mA6y44/edit?usp=sharing
+Slightly Reduced: https://docs.google.com/presentation/d/1aDlGjjBSpZU91YW6_it-tSgQYDBZbD_R8_XGWcmSuoE/edit?usp=sharing
+
+Original Full: https://docs.google.com/presentation/d/1cpxkLCDK6ikYC1ja6Txg4YWEo-P6sS7fNUQT6mA6y44/edit?usp=sharing
 
 ### Setup
 
