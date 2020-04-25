@@ -9,9 +9,9 @@ Slightly Reduced: https://docs.google.com/presentation/d/1aDlGjjBSpZU91YW6_it-tS
 Original Full: https://docs.google.com/presentation/d/1cpxkLCDK6ikYC1ja6Txg4YWEo-P6sS7fNUQT6mA6y44/edit?usp=sharing
 
 ### Colab Notebook
-I have made colab versions of the original workshop! Now you don't need to install anything locally, and can just use the "open in colab" links at the top of the workshop files marked "colab".
+I have made colab versions of the original workshop! Now you don't need to install anything locally, and can just use the "open in colab" links at the top of the workshop files marked "colab". AFterwards, you can make a copy to your drive.
 
-**To Run the workshop notebook, click on `workshop.ipynb`, then open in Colab**.
+**To Run the workshop notebook, click on `workshop.ipynb`, then open in Colab, then make a copy**.
 
 
 ### Local Setup
